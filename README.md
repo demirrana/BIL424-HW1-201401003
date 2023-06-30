@@ -2,7 +2,7 @@
 
 Video Linki: https://youtu.be/ETB7gKIREWA
 
-Library Dosyasını Görmek İçin Drive Linki: 
+Library Dosyasını Görmek İçin Drive Linki: https://drive.google.com/drive/folders/1ktWese5_pDSAQ-L7jgWBEIgsTzR9drmd?usp=drive_link
 
 Karşılaştığım Zorluklar: Karakter indirip ona animasyon eklemek istediğimde Mixamo'yu kullandım fakat bunu yaparken karakteri indirdikten sonra animasyonu o karaktere bağlamakta oldukça zorlandım. Daha sonra koyduğum animasyonu uygulaması için karakterime bir Avatar eklemem gerektiğini öğrendim ki istediğim hareketi uygulayabilsin.
 
